@@ -1,0 +1,4 @@
+Request ID,Date Created,Request Summary,Request Type,Requester,Approval Required,Assignee,Status,Completion Notes
+SR-SAMPLE-001,,Access to approved application,Application access,Sample user,As per policy,Unassigned,New,Illustrative sample only
+SR-SAMPLE-002,,Approved software installation,Software installation,Sample user,As per policy,Unassigned,New,Illustrative sample only
+SR-SAMPLE-003,,Password reset assistance,Account support,Sample user,Identity verification required,Unassigned,New,Illustrative sample only

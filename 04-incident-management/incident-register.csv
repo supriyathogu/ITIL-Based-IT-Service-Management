@@ -1,0 +1,4 @@
+Ticket ID,Date Created,Incident Summary,Description,Work Type,Request Type,Priority,Impact,Urgency,Assignee,Status,Notes,Resolution
+IT-1,2026-11-13,Unable to connect to company VPN,The VPN connection fails when I try to connect from my laptop.,Incident,Report a System Problem,Medium,Not assessed,Not assessed,Supriya Thogu,Work in Progress,Started investigating the VPN connection issue.,Not resolved - simulated workflow practice
+SAMPLE-002,,Unable to access company email,User reports that company email is unavailable.,Incident,Sample incident,Not assessed,Not assessed,Not assessed,Unassigned,Open,Illustrative sample only,Not resolved
+SAMPLE-003,,Laptop performance issue,Laptop is responding slowly.,Incident,Sample incident,Not assessed,Not assessed,Not assessed,Unassigned,Open,Illustrative sample only,Not resolved
